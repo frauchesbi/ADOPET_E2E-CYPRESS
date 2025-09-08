@@ -98,6 +98,25 @@ Resultados Esperados:
         Encontrar no html.
 ________________________________________________________________________________________________
 
+Funcionalidades: fluxo de login no botão mensagem.
+
+Cenário: usuário acessa página de mensagem, é redirecionado para o login.
+
+passos: 
+       Acessar o botão mensage na página e é redirecionado ao login.
+       O usuário confirma seu login com sucesso.
+
+_____________________________________________________________________________________________
+
+Funcionalidades: Verifica imagens dos animais.
+
+Cenário: Verificar se as imagens dos pets aparecem.
+
+passos:
+      Ao acessar a pagina principal, as imagens dos pets precisam esta aparecendo.
+_______________________________________________________________________________________________
+      
+       
 
 
 

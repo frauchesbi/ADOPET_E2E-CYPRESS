@@ -5,6 +5,6 @@ describe('Fluxo de Login', () => {
    
     it('Verifica mensagem de texto', () =>{
         cy.get('.header__message').click();
-        cy.login('ana@email.com','Senha123');    
+        cy.login('gabriely@email.com','Senha1234');    
     })
  });
